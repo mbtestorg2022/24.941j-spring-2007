@@ -45,17 +45,252 @@ SS = Stefanie Shattuck-Hufnagel
 DS = Donca Steriade  
 KS = Ken Stevens
 
-| SES # | LECTURERS | TOPICS | SUBTOPICS |
-| --- | --- | --- | --- |
-| 1 | KS | Course overview |  {{< br >}}{{< br >}} a. Distinctive features; phonological evidence and evidence from production, acoustics and perception; articulator-free features and articular-bound features {{< br >}}{{< br >}} b. Basics of acoustics of speech production: acoustic sources from airflow, filtering of sources by the vocal tract {{< br >}}{{< br >}} c. Some basic anatomy: breathing, lungs, larynx, oral tract, nasal cavities {{< br >}}{{< br >}} d. Basics of hearing; hearing for speech {{< br >}}{{< br >}} e. Air flow and its control in speech production {{< br >}}{{< br >}} f. Introduction to quantal theory, enhancement {{< br >}}{{< br >}}  |
-| 2-3 | KS | Features for vowels and sonorant consonants |  {{< br >}}{{< br >}} a. Vowel systems, relation between acoustics and articulation; Vowel nasalization, glottal source for vowels {{< br >}}{{< br >}} b. Waveform displays, spectrum displays, spectrograms {{< br >}}{{< br >}} c. Sonorant consonants; Glides, liquids, nasals {{< br >}}{{< br >}}  |
-| 4 | DS | Why features |  {{< br >}}{{< br >}} a. Learning phonology with distinctive features {{< br >}}{{< br >}} b. Inferring features {{< br >}}{{< br >}} c. Natural classes {{< br >}}{{< br >}}  |
-| 5 | DS | Feature values in lexical entries |  {{< br >}}{{< br >}} a. Experimental evidence for underspecification {{< br >}}{{< br >}} b. Evidence for underspecification in lexical access vs. phonological evidence {{< br >}}{{< br >}}  |
-| 6 | DS | Features vs. contrasts | Phonological relevance of non-contrastive features: release, syllabicity, timing |
-| 7 | EF, DS | Features vs. contrasts (cont.) |  {{< br >}}{{< br >}} a. Syllable structure {{< br >}}{{< br >}} b. Contrast as an alternative theory of features {{< br >}}{{< br >}}  |
-| 8 | EF | Lexical neighborhood, frequency, predictability, effects on production and perception | &nbsp; |
-| 9 | EF, DS | Theories of speech perception |  {{< br >}}{{< br >}} a. Objects of speech perception {{< br >}}{{< br >}} b. Models of speech perception - relation to lexical access, the role of 'intermediate' representations, Nearey's typology of intermediate representations {{< br >}}{{< br >}}  |
-| 10 | DG | Context effects | &nbsp; |
-| 11 | DG | Normalization | &nbsp; |
-| 12 | DG | Feature-cue integration and assimilation | &nbsp; |
-| 13-14 | &nbsp; | Student presentations |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+LECTURERS
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SUBTOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+KS
+{{< tdclose >}}
+{{< tdopen >}}
+Course overview
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+a. Distinctive features; phonological evidence and evidence from production, acoustics and perception; articulator-free features and articular-bound features
+
+b. Basics of acoustics of speech production: acoustic sources from airflow, filtering of sources by the vocal tract
+
+c. Some basic anatomy: breathing, lungs, larynx, oral tract, nasal cavities
+
+d. Basics of hearing; hearing for speech
+
+e. Air flow and its control in speech production
+
+f. Introduction to quantal theory, enhancement
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-3
+{{< tdclose >}}
+{{< tdopen >}}
+KS
+{{< tdclose >}}
+{{< tdopen >}}
+Features for vowels and sonorant consonants
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+a. Vowel systems, relation between acoustics and articulation; Vowel nasalization, glottal source for vowels
+
+b. Waveform displays, spectrum displays, spectrograms
+
+c. Sonorant consonants; Glides, liquids, nasals
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+DS
+{{< tdclose >}}
+{{< tdopen >}}
+Why features
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+a. Learning phonology with distinctive features
+
+b. Inferring features
+
+c. Natural classes
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+DS
+{{< tdclose >}}
+{{< tdopen >}}
+Feature values in lexical entries
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+a. Experimental evidence for underspecification
+
+b. Evidence for underspecification in lexical access vs. phonological evidence
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+DS
+{{< tdclose >}}
+{{< tdopen >}}
+Features vs. contrasts
+{{< tdclose >}}
+{{< tdopen >}}
+Phonological relevance of non-contrastive features: release, syllabicity, timing
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+EF, DS
+{{< tdclose >}}
+{{< tdopen >}}
+Features vs. contrasts (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+a. Syllable structure
+
+b. Contrast as an alternative theory of features
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+EF
+{{< tdclose >}}
+{{< tdopen >}}
+Lexical neighborhood, frequency, predictability, effects on production and perception
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+EF, DS
+{{< tdclose >}}
+{{< tdopen >}}
+Theories of speech perception
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+a. Objects of speech perception
+
+b. Models of speech perception - relation to lexical access, the role of 'intermediate' representations, Nearey's typology of intermediate representations
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+DG
+{{< tdclose >}}
+{{< tdopen >}}
+Context effects
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+DG
+{{< tdclose >}}
+{{< tdopen >}}
+Normalization
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+DG
+{{< tdclose >}}
+{{< tdopen >}}
+Feature-cue integration and assimilation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13-14
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

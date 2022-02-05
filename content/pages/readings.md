@@ -20,25 +20,415 @@ KS = Ken Stevens
 {{< anchor "Required_Readings" >}}{{< /anchor >}}Required Readings
 ------------------------------------------------------------------
 
-| SES # | LECTURERS | TOPICS | SUBTOPICS | READINGS |
-| --- | --- | --- | --- | --- |
-| 1 | KS | Course overview |  {{< br >}}{{< br >}} a. Distinctive features; phonological evidence and evidence from production, acoustics and perception; articulator-free features and articular-bound features {{< br >}}{{< br >}} b. Basics of acoustics of speech production: acoustic sources from airflow, filtering of sources by the vocal tract {{< br >}}{{< br >}} c. Some basic anatomy: breathing, lungs, larynx, oral tract, nasal cavities {{< br >}}{{< br >}} d. Basics of hearing; hearing for speech {{< br >}}{{< br >}} e. Air flow and its control in speech production {{< br >}}{{< br >}} f. Introduction to quantal theory, enhancement {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262194044) Stevens, K. N. [_Acoustic Phonetics_](https://mitpress.mit.edu/9780262194044). Cambridge, MA: MIT Press, 1999, chapters 1-2. ISBN: 9780262194044. {{< br >}}{{< br >}} Stevens, Kenneth N., and Samuel Jay Keyser. "Quantal Theory, Enhancement and Overlap." Manuscript, Paris, France, December 5, 2006. ([PDF]({{< baseurl >}}/resources/stevens_keyser07)) {{< br >}}{{< br >}} Clements, George, and Rachid Ridouane. "Quantal Phonetics and Distinctive Features: A Reviews." Proceedings of ISCA Tutorial and Research Workshop on Experimental Linguistics. Athens, Greece, August 28-30, 2006. {{< br >}}{{< br >}}  |
-| 2-3 | KS | Features for vowels and sonorant consonants |  {{< br >}}{{< br >}} a. Vowel systems, relation between acoustics and articulation; vowel nasalization, glottal source for vowels {{< br >}}{{< br >}} b. Waveform displays, spectrum displays, spectrograms {{< br >}}{{< br >}} c. Sonorant consonants; glides, liquids, nasals {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262194044) Stevens, K. N. [_Acoustic Phonetics_](https://mitpress.mit.edu/9780262194044). Cambridge, MA: MIT Press, 1999, chapters 3-6. ISBN: 9780262194044. {{< br >}}{{< br >}} Stevens, Kenneth N., and Samuel Jay Keyser. "Quantal Theory, Enhancement and Overlap." Manuscript. Paris, France, December 5, 2006. ([PDF]({{< baseurl >}}/resources/stevens_keyser07)) {{< br >}}{{< br >}} ———. "Enhancement and Overlap in the Speech Chain." _Language_ 82, no. 1 (2006): 33-63. {{< br >}}{{< br >}}  |
-| 4 | DS | Why features | a. Learning phonology with distinctive features |  {{< br >}}{{< br >}} Albright, Adam, and Bruce Hayes. "Rules vs. Analogy in English Past Tenses: A Computational/Experimental Study." _Cognition_ 90 (2003): 119-161. {{< br >}}{{< br >}} Nielsen, Kuniko Y. "Specificity and Generalizability of Spontaneous Phonetic Imitation." Interspeech 2006 - Ninth International Conference on Spoken Language Processing (ICSLP). Pittsburgh, PA, September 17-21, 2006. {{< br >}}{{< br >}} Peperkamp, Sharon, Rozenn Le Calvez, Jean-Pierre Nadal, and Emmanuel Dupoux. "The Acquisition of Allophonic Rules: Statistical Learning with Linguistic Constraints." _Cognition_ 101, no. 3 (2005): B31-B41. {{< br >}}{{< br >}}  |
-| b. Inferring features | Mielke, Jeff. "[Ambivalence and Ambiguity in Laterals and Nasals](http://journals.cambridge.org/action/displayAbstract?aid=352663)." _Phonology_ 22, no. 2 (2005): 169-203. |
-| c. Natural classes | Flemming, Edward. "Deriving Natural Classes in Phonology." _Lingua_ 115 (2003): 287-309. |
-| 5 | DS | Feature values in lexical entries | a. Experimental evidence for underspecification |  {{< br >}}{{< br >}} Lahiri, A., and W. Marslen-Wilson. "The Mental Representation of Lexical Form: A Phonological Approach to the Recognition Lexicon." _Cognition_ 38 (1991): 245-294. {{< br >}}{{< br >}}  |
-| b. Evidence for underspecification in lexical access vs. phonological evidence |  {{< br >}}{{< br >}} Steriade, Donca. "Underspecification and Markedness." In _The Handbook of Phonological Theory_. Edited by John A. Goldsmith. Cambridge, MA: Wiley-Blackwell, 1996. ISBN: 9780631201267. {{< br >}}{{< br >}} Nevins, Andrew. "[Conditions on (Dis) Harmony](http://hdl.handle.net/1721.1/28920)." PhD. dissertation, Massachusetts Institute of Technology, December 2004. {{< br >}}{{< br >}}  |
-| 6 | DS | Features vs. contrasts | Phonological relevance of non-contrastive features: release, syllabicity, timing |  {{< br >}}{{< br >}} Steriade, Donca. "Closure, Release, and Nasal Conditions." In _Phonetics and Phonology 5: Nasals, Nasalization, and the Velum_. Edited by Marie Huffman and Rena Krakow. San Diego, CA: Academic Press, 1993. ISBN: 9780123603807. {{< br >}}{{< br >}} ———. "Paradigm Uniformity and the Phonetics-Phonology Boundary." In _Papers in Laboratory Phonology V: Acquisition and the Lexicon_. Edited by Michael B. Broe and Janet B. Pierrehumbert. New York, NY: Cambridge University Press, 2000. ISBN: 9780521643634. {{< br >}}{{< br >}} Albright, Adam. "A Restricted Model of UR Discovery: Evidence from Lakhota." Unpublished manuscript, 2007. {{< br >}}{{< br >}}  |
-| 7 | EF, DS | Features vs. contrasts (cont.) | a. Syllable structure |  {{< br >}}{{< br >}} Mehler, J., J. Y. Dommergues, U. Frauenfelder, and J. Segui. "The Syllable's Role in Speech Segmentation." _Journal of Verbal Learning and Verbal Behavior_ 20 (1981): 298-305. {{< br >}}{{< br >}} Content, A., C. Meunier, R. K. Kearns, and U. H. Frauenfelder. "Sequence Detection in Pseudowords in French: Where is the Syllable Effect?" _Language and Cognitive Processes_ 16, nos. 5-6 (October 2001): 609-636. {{< br >}}{{< br >}}  |
-| b. Contrast as an alternative theory of features | Flemming, Edward. "Contrast and Perceptual Distinctiveness." In _Phonetically Based Phonology_. Edited by Bruce Hayes, Robert Kirchner, and Donca Steriade. New York, NY: Cambridge University Press, 2004. ISBN: 9780521825788. |
-| 8 | EF | Lexical neighborhood, frequency, predictability, effects on production and perception | &nbsp; |  {{< br >}}{{< br >}} Pisoni, D. B., H. C. Nusbaum, P. A. Luce, and L. M. Slowiaczek. "Speech Perception, Word Recognition, and the Structure of the Lexicon." _Speech Communication_ 4 (1985): 75-95. {{< br >}}{{< br >}} Wright, R. "Factors of Lexical Competition in Vowel Articulation." In _Papers in Laboratory Phonology VI_. Edited by John Local, Richard Ogden, and Rosalind Temple. New York, NY: Cambridge University Press, 2004. ISBN: 9780521824026. {{< br >}}{{< br >}} Scarborough, Rebecca. "Lexical and Contextual Predictability: Confluent Effects on the Production of Vowels." _Laboratory Phonology 10: Variation, Detail, & Representation,_ Tenth Conference on Laboratory Phonology, Paris, France, June 19-July 1, 2006. {{< br >}}{{< br >}}  |
-| 9 | EF, DS | Theories of speech perception | a. Objects of speech perception |  {{< br >}}{{< br >}} Remez, Robert. "A Guide to Research on the Perception of Speech." In _Handbook of Psycholinguistics_. Edited by Morton Ann Gemsbacher. New York, NY: Academic Press, 1994. ISBN: 9780122808906. {{< br >}}{{< br >}} Fowler, C. A. "Segmentation of Coarticulated Speech in Perception." _Perception and Psychophysics_ 36, no. 4 (October 1984): 359-368. {{< br >}}{{< br >}}  |
-| b. Models of speech perception - relation to lexical access, the role of 'intermediate' representations, Nearey's typology of intermediate representations. |  {{< br >}}{{< br >}} Perrier, Pascal. "Control and Representations in Speech Production." _ZAS Papers in Linguistics_ 40 (2005): 109-132. {{< br >}}{{< br >}} Neary, T. M. "Speech Perception as Pattern Recognition." _Journal of the Acoustical Society of America_ 101 (1997): 3241-3254 {{< br >}}{{< br >}}  |
-| 10 | DG | Context effects | &nbsp; |  {{< br >}}{{< br >}} Repp, B. H. "Bidirectional Contrast Effects in the Perception of VC-CV Sequences." _Perception and Psychophysics_ 33 (1983): 147-155. {{< br >}}{{< br >}} Lotto, A. J., K. R. Kluender, and L. L. Holt. "Perceptual Compensation for Coarticulation by Japanese Quail." _Journal of the Acoustical Society of America_ 102 (1997): 1134-1140. {{< br >}}{{< br >}} Magnuson, J. S., B. McMurray, M. K. Tanenhaus, and R. N. Aslin. "Lexical Effects on Compensation for Coarticulation: The Ghost of Christmas Past." _Cognitive Science_ 27 (2003): 285-298. {{< br >}}{{< br >}} Carney, Arlene E., Gregory P. Widin, and Neal F. Viemeister. "Noncategorical Perception of Stop Consonants Differing in VOT." _Journal of the Acoustical Society of America_ 62, no. 4 (1977): 961-970. {{< br >}}{{< br >}} Miller, J. L. "Mapping from Acoustic Signal to Phonetic Category: Internal Structure, Context Effects and Speeded Categorization." _Language and Cognitive Processes_ 16, nos. 5-6 (October-December 2001): 683-690. {{< br >}}{{< br >}} Norris, D., J. M. McQueen, and A. Cutler. "Merging Information in Speech Recognition: Feedback is Never Necessary." _Behavioral and Brain Sciences_ 23, no. 3 (2000): 299-370. {{< br >}}{{< br >}}  |
-| 11 | DG | Normalization | &nbsp; |  {{< br >}}{{< br >}} Miller, J. L., T. B. O'Rourke, and L. E. Volaitis. "Internal Structure of Phonetic Categories: Effects of Speaking Rate." _Phonetica_ 54 (1997): 121-137. {{< br >}}{{< br >}} Holt, L., and T. Wade. "Non-linguistic Sentence-length Precursors Affect Speech Perception: Implications for Speaker and Rate Normalization." Proceedings of from Sound to Sense, 2004. {{< br >}}{{< br >}} Grossberg, S., I. Boardman, and M. A. Cohen. "Neural Dynamics of Variable-rate Speech Categorization." _Journal of Experimental Psychology: Human Perception and Performance_ 23 (1997): 481-503. {{< br >}}{{< br >}} Connine, Cyntha M. "It's Not What You Hear But How Often You Hear It: On the Neglected Role of Phonological Variant Frequency in Auditory Word Recognition." _Psychonomic Bulletin and Review_ 11, no. 6 (December 2004): 1084-1089. {{< br >}}{{< br >}} McLennan, Conor T., Paul A. Luce, and Jan Charles-Luce. "Representation of Lexical Form." _Journal of Experimental Psychology: Learning, Memory, and Cognition_ 29, no. 4 (2003): 539-553. {{< br >}}{{< br >}} Goldinger, Stephen D., and Tamiko Azuma. "Puzzle-solving Science: The Quixotic Quest for Units in Speech Perception." _Journal of Phonetics_ 31 (2003): 305-320. {{< br >}}{{< br >}}  |
-| 12 | DG | Feature-cue integration and assimilation | &nbsp; |  {{< br >}}{{< br >}} Gow, D. W. "Feature Parsing: Feature Cue Mapping in Spoken Word Recognition." _Perception and Psychophysics_ 65 (2003): 575-590. {{< br >}}{{< br >}} Gow, D. W., and C. Zoll. "The Role of Feature Parsing in Speech Processing and Phonology." _MIT Working Papers in Linguistics_ 42 (2002): 55-68. {{< br >}}{{< br >}}  |
-| 13-14 | &nbsp; | Student presentations | &nbsp; | (no readings) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+LECTURERS
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SUBTOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+KS
+{{< tdclose >}}
+{{< tdopen >}}
+Course overview
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+a. Distinctive features; phonological evidence and evidence from production, acoustics and perception; articulator-free features and articular-bound features
+
+b. Basics of acoustics of speech production: acoustic sources from airflow, filtering of sources by the vocal tract
+
+c. Some basic anatomy: breathing, lungs, larynx, oral tract, nasal cavities
+
+d. Basics of hearing; hearing for speech
+
+e. Air flow and its control in speech production
+
+f. Introduction to quantal theory, enhancement
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262194044) Stevens, K. N. [_Acoustic Phonetics_](https://mitpress.mit.edu/9780262194044). Cambridge, MA: MIT Press, 1999, chapters 1-2. ISBN: 9780262194044.
+
+Stevens, Kenneth N., and Samuel Jay Keyser. "Quantal Theory, Enhancement and Overlap." Manuscript, Paris, France, December 5, 2006. ([PDF]({{< baseurl >}}/resources/stevens_keyser07))
+
+Clements, George, and Rachid Ridouane. "Quantal Phonetics and Distinctive Features: A Reviews." Proceedings of ISCA Tutorial and Research Workshop on Experimental Linguistics. Athens, Greece, August 28-30, 2006.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-3
+{{< tdclose >}}
+{{< tdopen >}}
+KS
+{{< tdclose >}}
+{{< tdopen >}}
+Features for vowels and sonorant consonants
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+a. Vowel systems, relation between acoustics and articulation; vowel nasalization, glottal source for vowels
+
+b. Waveform displays, spectrum displays, spectrograms
+
+c. Sonorant consonants; glides, liquids, nasals
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262194044) Stevens, K. N. [_Acoustic Phonetics_](https://mitpress.mit.edu/9780262194044). Cambridge, MA: MIT Press, 1999, chapters 3-6. ISBN: 9780262194044.
+
+Stevens, Kenneth N., and Samuel Jay Keyser. "Quantal Theory, Enhancement and Overlap." Manuscript. Paris, France, December 5, 2006. ([PDF]({{< baseurl >}}/resources/stevens_keyser07))
+
+———. "Enhancement and Overlap in the Speech Chain." _Language_ 82, no. 1 (2006): 33-63.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+DS
+{{< tdclose >}}
+{{< tdopen >}}
+Why features
+{{< tdclose >}}
+{{< tdopen >}}
+a. Learning phonology with distinctive features
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Albright, Adam, and Bruce Hayes. "Rules vs. Analogy in English Past Tenses: A Computational/Experimental Study." _Cognition_ 90 (2003): 119-161.
+
+Nielsen, Kuniko Y. "Specificity and Generalizability of Spontaneous Phonetic Imitation." Interspeech 2006 - Ninth International Conference on Spoken Language Processing (ICSLP). Pittsburgh, PA, September 17-21, 2006.
+
+Peperkamp, Sharon, Rozenn Le Calvez, Jean-Pierre Nadal, and Emmanuel Dupoux. "The Acquisition of Allophonic Rules: Statistical Learning with Linguistic Constraints." _Cognition_ 101, no. 3 (2005): B31-B41.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+b. Inferring features
+{{< tdclose >}}
+{{< tdopen >}}
+Mielke, Jeff. "[Ambivalence and Ambiguity in Laterals and Nasals](http://journals.cambridge.org/action/displayAbstract?aid=352663)." _Phonology_ 22, no. 2 (2005): 169-203.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+c. Natural classes
+{{< tdclose >}}
+{{< tdopen >}}
+Flemming, Edward. "Deriving Natural Classes in Phonology." _Lingua_ 115 (2003): 287-309.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+DS
+{{< tdclose >}}
+{{< tdopen >}}
+Feature values in lexical entries
+{{< tdclose >}}
+{{< tdopen >}}
+a. Experimental evidence for underspecification
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lahiri, A., and W. Marslen-Wilson. "The Mental Representation of Lexical Form: A Phonological Approach to the Recognition Lexicon." _Cognition_ 38 (1991): 245-294.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+b. Evidence for underspecification in lexical access vs. phonological evidence
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Steriade, Donca. "Underspecification and Markedness." In _The Handbook of Phonological Theory_. Edited by John A. Goldsmith. Cambridge, MA: Wiley-Blackwell, 1996. ISBN: 9780631201267.
+
+Nevins, Andrew. "[Conditions on (Dis) Harmony](http://hdl.handle.net/1721.1/28920)." PhD. dissertation, Massachusetts Institute of Technology, December 2004.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+DS
+{{< tdclose >}}
+{{< tdopen >}}
+Features vs. contrasts
+{{< tdclose >}}
+{{< tdopen >}}
+Phonological relevance of non-contrastive features: release, syllabicity, timing
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Steriade, Donca. "Closure, Release, and Nasal Conditions." In _Phonetics and Phonology 5: Nasals, Nasalization, and the Velum_. Edited by Marie Huffman and Rena Krakow. San Diego, CA: Academic Press, 1993. ISBN: 9780123603807.
+
+———. "Paradigm Uniformity and the Phonetics-Phonology Boundary." In _Papers in Laboratory Phonology V: Acquisition and the Lexicon_. Edited by Michael B. Broe and Janet B. Pierrehumbert. New York, NY: Cambridge University Press, 2000. ISBN: 9780521643634.
+
+Albright, Adam. "A Restricted Model of UR Discovery: Evidence from Lakhota." Unpublished manuscript, 2007.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+EF, DS
+{{< tdclose >}}
+{{< tdopen >}}
+Features vs. contrasts (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+a. Syllable structure
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mehler, J., J. Y. Dommergues, U. Frauenfelder, and J. Segui. "The Syllable's Role in Speech Segmentation." _Journal of Verbal Learning and Verbal Behavior_ 20 (1981): 298-305.
+
+Content, A., C. Meunier, R. K. Kearns, and U. H. Frauenfelder. "Sequence Detection in Pseudowords in French: Where is the Syllable Effect?" _Language and Cognitive Processes_ 16, nos. 5-6 (October 2001): 609-636.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+b. Contrast as an alternative theory of features
+{{< tdclose >}}
+{{< tdopen >}}
+Flemming, Edward. "Contrast and Perceptual Distinctiveness." In _Phonetically Based Phonology_. Edited by Bruce Hayes, Robert Kirchner, and Donca Steriade. New York, NY: Cambridge University Press, 2004. ISBN: 9780521825788.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+EF
+{{< tdclose >}}
+{{< tdopen >}}
+Lexical neighborhood, frequency, predictability, effects on production and perception
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Pisoni, D. B., H. C. Nusbaum, P. A. Luce, and L. M. Slowiaczek. "Speech Perception, Word Recognition, and the Structure of the Lexicon." _Speech Communication_ 4 (1985): 75-95.
+
+Wright, R. "Factors of Lexical Competition in Vowel Articulation." In _Papers in Laboratory Phonology VI_. Edited by John Local, Richard Ogden, and Rosalind Temple. New York, NY: Cambridge University Press, 2004. ISBN: 9780521824026.
+
+Scarborough, Rebecca. "Lexical and Contextual Predictability: Confluent Effects on the Production of Vowels." _Laboratory Phonology 10: Variation, Detail, & Representation,_ Tenth Conference on Laboratory Phonology, Paris, France, June 19-July 1, 2006.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+EF, DS
+{{< tdclose >}}
+{{< tdopen >}}
+Theories of speech perception
+{{< tdclose >}}
+{{< tdopen >}}
+a. Objects of speech perception
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Remez, Robert. "A Guide to Research on the Perception of Speech." In _Handbook of Psycholinguistics_. Edited by Morton Ann Gemsbacher. New York, NY: Academic Press, 1994. ISBN: 9780122808906.
+
+Fowler, C. A. "Segmentation of Coarticulated Speech in Perception." _Perception and Psychophysics_ 36, no. 4 (October 1984): 359-368.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+b. Models of speech perception - relation to lexical access, the role of 'intermediate' representations, Nearey's typology of intermediate representations.
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Perrier, Pascal. "Control and Representations in Speech Production." _ZAS Papers in Linguistics_ 40 (2005): 109-132.
+
+Neary, T. M. "Speech Perception as Pattern Recognition." _Journal of the Acoustical Society of America_ 101 (1997): 3241-3254
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+DG
+{{< tdclose >}}
+{{< tdopen >}}
+Context effects
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Repp, B. H. "Bidirectional Contrast Effects in the Perception of VC-CV Sequences." _Perception and Psychophysics_ 33 (1983): 147-155.
+
+Lotto, A. J., K. R. Kluender, and L. L. Holt. "Perceptual Compensation for Coarticulation by Japanese Quail." _Journal of the Acoustical Society of America_ 102 (1997): 1134-1140.
+
+Magnuson, J. S., B. McMurray, M. K. Tanenhaus, and R. N. Aslin. "Lexical Effects on Compensation for Coarticulation: The Ghost of Christmas Past." _Cognitive Science_ 27 (2003): 285-298.
+
+Carney, Arlene E., Gregory P. Widin, and Neal F. Viemeister. "Noncategorical Perception of Stop Consonants Differing in VOT." _Journal of the Acoustical Society of America_ 62, no. 4 (1977): 961-970.
+
+Miller, J. L. "Mapping from Acoustic Signal to Phonetic Category: Internal Structure, Context Effects and Speeded Categorization." _Language and Cognitive Processes_ 16, nos. 5-6 (October-December 2001): 683-690.
+
+Norris, D., J. M. McQueen, and A. Cutler. "Merging Information in Speech Recognition: Feedback is Never Necessary." _Behavioral and Brain Sciences_ 23, no. 3 (2000): 299-370.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+DG
+{{< tdclose >}}
+{{< tdopen >}}
+Normalization
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Miller, J. L., T. B. O'Rourke, and L. E. Volaitis. "Internal Structure of Phonetic Categories: Effects of Speaking Rate." _Phonetica_ 54 (1997): 121-137.
+
+Holt, L., and T. Wade. "Non-linguistic Sentence-length Precursors Affect Speech Perception: Implications for Speaker and Rate Normalization." Proceedings of from Sound to Sense, 2004.
+
+Grossberg, S., I. Boardman, and M. A. Cohen. "Neural Dynamics of Variable-rate Speech Categorization." _Journal of Experimental Psychology: Human Perception and Performance_ 23 (1997): 481-503.
+
+Connine, Cyntha M. "It's Not What You Hear But How Often You Hear It: On the Neglected Role of Phonological Variant Frequency in Auditory Word Recognition." _Psychonomic Bulletin and Review_ 11, no. 6 (December 2004): 1084-1089.
+
+McLennan, Conor T., Paul A. Luce, and Jan Charles-Luce. "Representation of Lexical Form." _Journal of Experimental Psychology: Learning, Memory, and Cognition_ 29, no. 4 (2003): 539-553.
+
+Goldinger, Stephen D., and Tamiko Azuma. "Puzzle-solving Science: The Quixotic Quest for Units in Speech Perception." _Journal of Phonetics_ 31 (2003): 305-320.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+DG
+{{< tdclose >}}
+{{< tdopen >}}
+Feature-cue integration and assimilation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Gow, D. W. "Feature Parsing: Feature Cue Mapping in Spoken Word Recognition." _Perception and Psychophysics_ 65 (2003): 575-590.
+
+Gow, D. W., and C. Zoll. "The Role of Feature Parsing in Speech Processing and Phonology." _MIT Working Papers in Linguistics_ 42 (2002): 55-68.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13-14
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+(no readings)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
