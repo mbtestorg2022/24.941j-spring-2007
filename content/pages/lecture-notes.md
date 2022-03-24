@@ -80,9 +80,9 @@ KS
 
 Features for vowels and sonorant consonants
 
-Lecture 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3 MB]({{< baseurl >}}/resources/lec2ks))
+Lecture 2 ([PDF - 1.3 MB]({{< baseurl >}}/resources/lec2ks))
 
-Lecture 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1]({{< baseurl >}}/resources/lec3ks1)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2]({{< baseurl >}}/resources/lec3ks2)) ([PDF 3]({{< baseurl >}}/resources/lec3ks3))
+Lecture 3 ([PDF 1]({{< baseurl >}}/resources/lec3ks1)) ([PDF 2]({{< baseurl >}}/resources/lec3ks2)) ([PDF 3]({{< baseurl >}}/resources/lec3ks3))
 
 
 {{< tdclose >}}

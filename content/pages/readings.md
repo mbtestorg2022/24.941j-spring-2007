@@ -497,7 +497,7 @@ Clements, G. N. "Feature Economy in Sound Systems." _Phonology 20_ (2003): 287-3
 
 Nowak, Pawel, Anne Pycha, Eurie Shin, and Ryan Shosted. "[Phonological Rule-learning and Its Implications for a Theory of Vowel Harmony](http://linguistlist.org/issues/13/13-2852.html#1)." WCCFL 22: Proceedings of the 22nd West Coast Conference on Formal Linguistics, San Diego, CA, March 21-23, 2003.
 
-Finley, and Badecker. "The Cognitive Basis for Restrictions on Vowel Harmony." Old World Conference in Phonology 4, January 18-21, 2007 and LSA Annual Meeting, 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.588.7133&rep=rep1&type=pdf))
+Finley, and Badecker. "The Cognitive Basis for Restrictions on Vowel Harmony." Old World Conference in Phonology 4, January 18-21, 2007 and LSA Annual Meeting, 2007. ([PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.588.7133&rep=rep1&type=pdf))
 
 Albright, Adam. "OO-correspondence to Phonetically Predictable Properties: Evidence from Episodic - ́ee." 2006.
 
@@ -527,7 +527,7 @@ Segui, Juan, and Ludovic Ferrand. "The Role of the Syllable in Speech Perception
 
 Dumay, Nicolas, Uli H. Frauenfelder, and Alain Content. "The Role of the Syllable in Lexical Segmentation in French: Word-Spotting Data." _Brain and Language_ 81 (2002): 144-161.
 
-Pallier, Christophe. "Phoenemes and Syllables in Speech Perception: Size of Attentional Focus in French." 1997. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.pallier.org/papers/Pallier_focus_eurospeech97.pdf))
+Pallier, Christophe. "Phoenemes and Syllables in Speech Perception: Size of Attentional Focus in French." 1997. ([PDF](http://www.pallier.org/papers/Pallier_focus_eurospeech97.pdf))
 
 Meunier, Christine, Alain Content, Uli H. Frauenfelder, and Ruth Kearns. "The Locus of the Syllable Effect: Prelexical or Lexical?" 5th European Conference on Speech Communication and Technology, Rhodes, Greece, September 22-25, 1997.
 
@@ -537,7 +537,7 @@ Gow, David, and Cheryl Zoll. "The Role of Feature Parsing in Speech Processing a
 
 McMurray, Bob, Michael K. Tannenhaus, and Richard N. Aslin. "Gradient Effects of Within-category Phonetic Variation on Lexical Access" _Cognition_ 86 (2000): B33-B42.
 
-Blumstein, Sheila E. "Phonetic Category Structure and its Influence on Lexical Processing." In Proceedings of the 2003 Texas Linguistics Society Conference. Edited by Augustine Agwuele, Willis Warren, and Sang-Hoon Park. Somerville, MA: Cascadilla Proceedings Project, 2003, pp 17-25. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.lingref.com/cpp/tls/2003/paper1064.pdf))
+Blumstein, Sheila E. "Phonetic Category Structure and its Influence on Lexical Processing." In Proceedings of the 2003 Texas Linguistics Society Conference. Edited by Augustine Agwuele, Willis Warren, and Sang-Hoon Park. Somerville, MA: Cascadilla Proceedings Project, 2003, pp 17-25. ([PDF](http://www.lingref.com/cpp/tls/2003/paper1064.pdf))
 
 Dahan, D., J. S. Magnuson, M. K. Tanenhaus, and E. M. Hogan. "Tracking the Time Course of Subcategorical Mismatches: Evidence for Lexical Competition." _Language and Cognitive Processes_ 16, no. 5-6 (2001): 507-534.
 
