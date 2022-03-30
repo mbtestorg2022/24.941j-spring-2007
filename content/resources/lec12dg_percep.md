@@ -4,6 +4,7 @@ description: Lecture notes on feature-cue integration, assimilation, categorical
   and implications for spoken word recognition.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-941j-the-lexicon-and-its-features-spring-2007/5f0aea91885fea2d3571f67a8a2ac3b9_lec12dg_percep.pdf
 file_type: application/pdf
+parent_uid: a9d93e99-509e-3e6b-1074-119e86eef49f
 resourcetype: Document
 title: Categorical Perception and its Implications for Spoken Word Recognition
 uid: 5f0aea91-885f-ea2d-3571-f67a8a2ac3b9
